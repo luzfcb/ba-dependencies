@@ -1,0 +1,6 @@
+# Pro-tip: Try not to put anything here. Avoid dependencies in
+#	production that aren't in development.
+-r base.txt
+
+Collectfast==0.6.2
+django-storages==1.7.1
