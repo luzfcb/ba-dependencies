@@ -1,7 +1,6 @@
 # Local development dependencies go here
 -r test.txt
 
-django-silk==3.0.2
 ipdb==0.12
 Sphinx==2.0.1
 Werkzeug==0.15.2
