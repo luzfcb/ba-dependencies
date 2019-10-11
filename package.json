@@ -25,5 +25,5 @@
         "tslib": "^1.9.0",
         "typescript-json-schema": "~0.40",
         "yargs": "^14.0.0"
-      },
+      }
 }
