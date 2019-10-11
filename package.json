@@ -16,7 +16,7 @@
         "deprecated-decorator": "^0.1.6",
         "fast-glob": "^3.0.4",
         "jsonpath-plus": "~1.1",
-        "lodash": ">=4.17.5",
+        "lodash": ">=4.17.15",
         "nanoid": "^2.0.3",
         "node-fetch": "^2.6",
         "proxy-agent": "^3.1.0",
