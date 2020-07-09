@@ -27,7 +27,7 @@ toolz==0.9.0
 # force urllib3 version is required by botocore and boto3
 urllib3<1.25,>=1.20
 django-silk==3.0.2
-django-cacheops==4.1
+django-cacheops==5.0.1
 # required by django-cacheops
 funcy==1.12
 redis==3.3.10
