@@ -1,4 +1,4 @@
-awscli==1.16.155
+awscli==1.19.31
 PyYAML==3.13
 yaml-builder==0.1.1
 lintly==0.3.0
