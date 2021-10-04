@@ -11,7 +11,7 @@ pytest-django==3.4.8
 # disable pytest-sugar, because is incompatible with pytest==3.10
 # re-enable when https://github.com/Frozenball/pytest-sugar/pull/160 get merged
 # pytest-sugar==0.9.1
-pytest-cov==2.7.1
+pytest-cov==3.0.0
 responses==0.10.6
 invokust==0.52
 locustio==0.11.0
