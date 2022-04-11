@@ -22,7 +22,7 @@ freezegun==0.3.11
 sentry-sdk==0.7.14
 factory_boy==2.11.1
 jsonschema==3.0.1
-gremlinpython==3.4.1
+gremlinpython==3.6.0
 toolz==0.9.0
 # force urllib3 version is required by botocore and boto3
 urllib3<1.25,>=1.20
