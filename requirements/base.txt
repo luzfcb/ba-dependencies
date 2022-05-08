@@ -30,5 +30,5 @@ django-silk==3.0.2
 django-cacheops==4.1
 # required by django-cacheops
 funcy==1.12
-redis==3.3.10
+redis==4.3.0
 # end django-cacheops
