@@ -5,4 +5,4 @@
 aws-xray-sdk==2.4.2
 boto3==1.9.144
 Collectfast==0.6.2
-django-storages==1.7.1
+django-storages==1.13
