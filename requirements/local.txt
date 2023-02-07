@@ -4,7 +4,7 @@
 ipdb==0.12
 Sphinx==2.0.1
 Werkzeug==0.15.2
-sphinx-rtd-theme==0.4.3
+sphinx-rtd-theme==1.2.0
 numpydoc==0.9.1
 django-debug-toolbar==1.11
 ipython==7.5.0
