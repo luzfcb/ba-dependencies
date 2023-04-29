@@ -7,7 +7,7 @@ Werkzeug==0.15.2
 sphinx-rtd-theme==0.4.3
 numpydoc==0.9.1
 django-debug-toolbar==1.11
-ipython==7.5.0
+ipython==8.13.1
 m2r==0.2.1
 pygraphviz==1.5
 pydotplus==2.0.2
