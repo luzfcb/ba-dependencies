@@ -3,7 +3,7 @@ awesome-slugify==1.6.5
 coreapi==2.3.3
 django==2.1.8
 django-braces==1.13.0
-django-compressor==2.2
+django-compressor==4.4
 django-cors-headers==2.5.3
 django-environ==0.4.5
 django-extensions==2.1.6
