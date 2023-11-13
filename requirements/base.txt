@@ -25,7 +25,7 @@ jsonschema==3.0.1
 gremlinpython==3.4.1
 toolz==0.9.0
 # force urllib3 version is required by botocore and boto3
-urllib3<1.25,>=1.20
+urllib3==2.1.0
 django-silk==3.0.2
 django-cacheops==4.1
 # required by django-cacheops
